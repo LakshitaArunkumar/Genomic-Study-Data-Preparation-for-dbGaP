@@ -100,10 +100,16 @@ The pipeline generates dbGaP-compliant files:
 - Reproducible research practices  
 - Data validation and quality control  
 - Pipeline development in R  
-- Preparation of dbGaP submission files  
+- Preparation of dbGaP submission files
 
 ---
 
 ## Notes
 
 This project was completed as an independent academic assignment simulating real-world data submission workflows for genomic studies.
+
+---
+
+## Author
+
+Lakshita Arunkumar
